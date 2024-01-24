@@ -12,7 +12,8 @@ Welcome to the digital clock repository! This project was created for learning p
 
 ## Screenshots
 
-![App Screenshot]("C:\Users\HP\Downloads\Calculator.jpg")
+![digital-clock modified](https://github.com/Sachintha-Dinuranga/digital-clock/assets/117833055/4ad90a21-4925-4d9f-899d-b46641153129)
+
 
 
 
