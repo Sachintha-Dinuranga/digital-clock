@@ -2,6 +2,7 @@
 # Digital Clock
 
 Welcome to the digital clock repository! This project was created for learning purposes, using HTML, CSS, and JavaScript. 
+This digital clock app provides a straightforward and user-friendly way to display the current time. With a clean and minimalistic design, it offers a quick glance at the time without any unnecessary distractions.
 
 
 ## Features
